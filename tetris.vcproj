@@ -2,9 +2,9 @@
 <VisualStudioProject
 	ProjectType="Visual C++"
 	Version="9,00"
-	Name="tetris_tutorial_sdl"
+	Name="tetris"
 	ProjectGUID="{DB328075-53FA-4F08-AC79-10FACC91E77F}"
-	RootNamespace="tetris_tutorial_sdl"
+	RootNamespace="tetris"
 	Keyword="Win32Proj"
 	TargetFrameworkVersion="196613"
 	>
